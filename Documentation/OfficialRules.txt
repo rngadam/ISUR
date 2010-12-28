@@ -1,0 +1,301 @@
+﻿OFFICIAL RULES (STATUS: DRAFT, December 28th 2010)
+
+1st ISUR Competition
+aka
+1st International Small UGV Racing Competition
+aka
+1st International Small Unmanned Ground Vehicle Competition
+
+"Self-driving, low-cost small robots with a need for speed!"
+"F1 racing for autonomous toy cars"
+
+= Purpose =
+Share the passion of creating robots in a fun, exciting and fair competition open and accessible to all and give international recognition to innovators and makers.
+
+= Glossary and definitions =
+
+UGV: Unmanned Ground Vehicule
+RFC: Request For Comments
+N: maximum permitted cost of all parts for UGV
+T: date/time of the start of the race
+T-duration: date/time before the race starts
+T+duration: date/time after the race starts
+X: length of smallest timeslot given to complete a stage (based on total time available / number of participants in stage)
+
+= Eligibility =
+
+Everyone, anywhere from whatever background is eligible for participation. 
+
+Teams can be fielded by:
+
+- single private individual;
+- group of private individuals;
+- universities;
+- high schools;
+- companies;
+- governmental organizations; 
+- etc.
+
+Team can be of any size.  Organizations may register multiple teams but they must be made of distinct members.
+
+Only one UGV per team may race during the competition.
+
+The only exception is for organizers, members of the panel of judges and their respective organizations. They can still join with demonstrators UGV but cannot claim any prize or appear officially in rankings.
+
+= Competition languages =
+
+The two official languages used in the competition will be Mandarin Chinese and English.
+
+= Competition date =
+
+Saturday and Sunday, July 2nd and 3rd 2011
+
+T = Sunday, July 3rd 2011, 9:00 AM CST
+
+= Venue =
+
+Shanghai, China (PRC) 
+
+Precise location TBD before T-3 months.
+
+Pictures, information on race track material, layout will be provided before T-3 months.
+
+= UGV criteria =
+
+- The UGV must fit in a rigid, closed box of size WxHxD cm (excluding removable antennas);
+- The UGV must be made of parts costing less than N RMB;
+- The UGV cannot use a combustion engine;
+- The UGV must be "RF-silent" while moving autonomously;
+- Design must integrate a single button wireless on/off switch as specified by the organizers;
+- No robot shall interfere with any other robot;
+- No robot shall potentially put in danger the audience, judges or other participants.  
+
+== Prizes ==
+
+Prizes are individually sponsored by organizations.
+
+Overall ranking prizes:
+
+- 1st place overall: N*8 
+- 2nd place overall: N*4
+- 3rd place overall: N*2
+
+Additional prizes (ranking in a particular stage or type of participants or any other criteria) can be provided. Additional prizes will be announced at the latest at T-3 months. One team may win multiple prizes.  Additional cash or gift prizes will not exceed 1st place overall ranking prize. Non-cash prizes may be awarded (such as internships). 
+
+= Competition structure =
+
+Competition is multi-stages.  Competitors must complete any minimal criteria at each stage to move on to the next stage.  Points are accumulated at each stage. At every stage, unless otherwise indicated, the point structure is as follow:
+
+- 1st place: 3 points
+- 2nd place: 2 points
+- 3rd place: 1 point
+
+Ranking at each stage and overall ranking is decided by the panel of judges.  
+
+Judges decisions are discretionary and final.
+
+At each stage, stage ranking will be provided in addition with overall rankings of all teams.
+ 
+= The stages =
+
+== Stage 0: Intent to compete (T-6 months) ==
+
+- N*10% RMB participation fee is required;
+- Participation fee is NON-REIMBURSABLE... if you do not advance at any stage, you will not be reimbursed;
+- Team name, team captain and list of team members with contact email information must be provided;
+- Intent to compete includes a pledge of fair play;
+- Intent to compete includes verification that you have read and understand the official rules fully;
+- Link to blog with RSS feed must be provided;
+- Link to the team official website must be provided (can be the same as the blog);
+- Intent to compete must be sent to the organizers before the deadline;
+- No points awarded for stage 0.
+
+== Stage 1: blog updates (T-6 months to T-1 month) ==
+
+- Organizers will monitor the team blog updates for:
+  - technical details provided;
+  - timeliness;
+  - use of multimedia material;
+  - educational value;
+  - readers' interest;
+  - references to main competition site and other competitors posts;
+  - reposts and commenters participation.
+- A blog with less than one weekly update will disqualify the team from advancing further;
+- Updates can be in either Chinese or English or both;
+- In case of too many participants, blog final ranking may be used to restrict access to the next stage.
+
+== Stage 2: Journal Paper (T-1 month) == 
+
+- Journal paper must be sent to organizers before the deadline;
+- Journal paper must include list and cost of every part in the UGV that will race;
+- Quality of journal paper will be evaluated by the panel of judges on:
+  - originality and suitability of design;
+  - completeness of documentation;
+  - quality of language and understandability of explanations;
+  - illustrations (schematics, pictures) and layout.
+- Journal paper must not exceed 8 pages in length and use less than 12 points sized font;
+- Journal paper must be provided in PDF format;
+- Teams can provide the journal in either or both languages (English or Chinese);
+- Separate rankings and sets of points for each language with a maximum of 3 points per team.
+
+== Stage 3: Static judging (~T-1 day) ==
+
+- Team must perform an oral presentation in presence of their UGV;
+- Panel of judges will rank competitors:
+  - on quality of oral presentation;
+  - stand presentation (use of posters and multimedia presentation material);
+  - professionalism of the team;
+  - safety and excellence of design.
+- Stand must be manned at all times to answer questions during the judging period;
+- Teams can present in either or both languages (English or Chinese); 
+- Separate ranking and sets of points for each language with a maximum of 3 points per team.
+
+== Stage 4: Wireless on/off switch test (~T-1 day) ==
+
+- Must show that the robot can be repeatedly activated/de-activated;
+- Must be able to receive on/off signal at a distance of 1 km;
+- Static stand for each robot that prevents moving when activated must be provided;
+- No points awarded for this stage;
+= Failure to complete this stage will prevent advancing to the next stage.
+
+== Stage 5: Practice (~T-1 day) ==
+
+- Every team will be given a X minutes time slot with sole access to the race track for practice;
+- Team may not damage or modify the race track;
+- No points awarded for this stage.
+
+== Stage 6: Straightaway top speed (>T+0 hours) ==
+
+- Single robot on a straight race track xxx m long;
+- Each team is given X minutes to complete this;
+- Each team can retry as many times as they want within their timeslot.
+
+== Stage 7: Straightaway with obstacles top speed (>T+3 hours) ==
+
+- Single robot must successfully navigate obstacles randomly placed in same straightaway than the previous stage;
+- Each team is given X minutes to complete this;
+- Each team can retry as many times as they want within their timeslot.
+
+== Stage 8: Race track single fastest lap (>T+5 hours) ==
+
+- Single robot must navigate obstacles placed on a race track;
+- Each team is given X minutes to complete this;
+- Each team can retry as many times as they want within their timeslot.
+
+== Stage 9: Race (>T+7 hours) ==
+
+- Every robot that have advanced up to here simultaneously competing;
+- Two laps;
+- Stage ranking is based on order in which UGV cross the finish line after the second lap;
+- Start signal will be given wirelessly.
+
+= Obstacle avoidance =
+
+At any stage, if the robot while moving autonomously:
+
+- collides or cross the sides of the race track (except during the practice stage);
+- collides with an obstacle (except during the practice stage);
+- has a part detach from the UGV (except during the practice stage);
+- collides with a competing UGV.
+
+...the team will be prevented from advancing to the following stage and current stage points will be nullified.
+
+== Race track ==
+
+TBD (racetrack with one straightaway)
+
+Probably a Karting racetrack such as:
+
+http://www.kartingasia.com/kart_tracks/shanghai-f1-kart-world-t233.html
+http://www.cityweekend.com.cn/shanghai/listings/sports/go_karting/has/disc-kart-indoor-karting/
+
+== Final rankings ==
+
+Based on the sum of all points accumulated in each of the stages.
+
+If there is a tie in the overall ranking, the ranking of the most advanced stage achieved will be used as a tie-breaker.
+
+Example:
+
+- Team #1 and team #2 are tied for first place with 12 points each.  They've both completed the last stage with Team #2 finishing first while Team #1 finished second.  Team #2 would then be declared first place overall and Team #1 second place overall.
+
+== Ordering ==
+
+Time slots or choices are given in each stage in the order of the ranking in the previous stage (example: 1st place in stage 1 gets 1st choice of time slot in stage 2).
+
+= Sportsmanship =
+
+Unprofessional or unsportmans-like behavior will prevent the team from advancing to the next stage.  
+
+This will be at the discretion of the panel of judges.
+
+The panel of judges may remove at their discretion anyone or any team from the competition grounds at any time.
+
+= Sponsorship =
+
+We encourage finding sponsors to finance the development of the robot. Sponsors logo can be displayed on the UGV, stand posters and team clothing items. They may not obstruct or disturb other competitors, judges, organizers or audience.  
+
+Judges, organizers and their companies cannot sponsor individual teams (they may however sponsor prizes).
+
+= On/off wireless switch =
+
+- must physically cut any link between power source and the rest of the car and will also be used to turn on the UGV.  
+- Any operation, movement or apparent change in the vehicle when the kill switch is enabled will prevent the team from advancing further
+- The UGV must listen at all times for a unique identification on the common frequency specific to itself;
+- The UGV must also listen to a "ALL" identification competitors.
+
+= Accounting of costs = 
+
+The cost of base parts is based on:
+- what it would cost another team to construct the same robot from the same parts beyond the excluded costs (see below).  
+- Base parts must be available for purchase by any other party.  
+- Cost conversion rate for other currency to RMB is as of exchange rate T-30 days. 
+- Sponsored parts must be included at their retail or list price.
+
+Excluded from the cost of the UGV is:
+- assembly cost;
+- spare/replacement parts;
+- time and design engineering cost by team members;
+- additional copies of the UGV;
+- instruments and tools used in the development of the UGV;
+- shipping and handling fees
+- import duties and taxes;
+- banking and exchange fees;
+- software.
+
+Included costs examples:
+- microcontroller platform;
+- electronics parts (transistors, resistances, IC, etc);
+- source material used by the team to create new parts;
+- motors;
+- sensors;
+- power source;
+- screws, tie-wraps;
+- cabling cost;
+- etc.
+
+Proof of advertised, retail or list price must be provided for each part.
+
+= Recommendations to participants =
+
+- Prototype and iterate quickly;
+- Don't forget to plan ahead for multiple fully charged spare batteries on the day of the competition;
+- Take time to create built-in diagnostics tools;
+- Think of your test strategy;
+- Don't forget to keep spare parts;
+- Prefer a small team size of motivated individuals;
+- Follow the KISS principle (Keep It Simple and Straightforward).
+  
+= Information sharing =
+
+All updates to the official rules will be shared promptly by organizers to all intended participants through online communication. Official information will be provided on the same day in a bilingual format (English and Chinese).
+
+= Judges =
+
+- The panel of 5 judges will be announced at T-2 months; 
+- Judges on the panel must have excellent oral and written comprehension of Mandarin Chinese and English;
+- Judges shall have no financial relationship with any of the team competing (close family member, employer/employee, etc).
+
+= Organizers =
+
+Competition is organized by Xindanwei (http://www.xindanwei.com) and Xinchejian (http://www.xinchejian.com) in Shanghai.
