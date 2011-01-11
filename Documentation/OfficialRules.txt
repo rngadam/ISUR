@@ -117,7 +117,7 @@ At each stage, stage ranking will be provided in addition with overall rankings 
  
 = The stages =
 
-== Stage 0: Intent to compete (T-6 months) ==
+== Stage 0: Intent to compete (T-5 months) ==
 
 - N*10% RMB participation fee is required;
 - Participation fee is NON-REIMBURSABLE... if you do not advance at any stage, you will not be reimbursed;
@@ -129,7 +129,7 @@ At each stage, stage ranking will be provided in addition with overall rankings 
 - Intent to compete must be sent to the organizers before the deadline;
 - No points awarded for stage 0.
 
-== Stage 1: blog updates (T-6 months to T-1 month) ==
+== Stage 1: blog updates (T-5 months to T-1 month) ==
 
 - Organizers will monitor the team blog updates for:
   - technical details provided;
